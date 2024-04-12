@@ -1,0 +1,33 @@
+.coin-detail{
+    padding-left: 120px;
+    padding-top: 50px;
+
+}
+.time{
+    font-weight: bold;
+}
+.coin-image img{
+    margin-top: 60px;
+}
+.coin-name{
+    font-weight: bold;
+    font-size: 27px;
+    margin-top: 60px;
+}
+.coin-price{
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.coin-market-cap{
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+.btn button{
+    height: 2rem;
+    background-color: orange;
+    
+}
